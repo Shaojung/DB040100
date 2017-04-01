@@ -1,4 +1,3 @@
 AA
 BB
-CCC
 DDDD
